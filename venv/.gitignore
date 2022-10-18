@@ -3,3 +3,4 @@
 lib/
 .pytest_cache/
 .venv/
+.venv
